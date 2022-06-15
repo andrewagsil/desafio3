@@ -1,7 +1,8 @@
 # Mentoria TonCode ![logo](./img/logo.png)
 
-A mentoria TonCode foi pensada com intuito de ajudar as pessoas para que possam ingressar na carreira de desenvolvimento, sabendo que hoje em dia a demanda no mercado é extremamente alta e poucas são as pessoas que estão se preparando para esse fluxo tão emergente. Por tanto, com muito carinho e dedicação, nos propusemos a encarar esse desafio, arregaçando as mangas para formar um time de amigos mais que irmãos a se qualificarem a esse mercado futuro.
-Um bjo a todo e bons estudos - Ton Marcondes.
+A mentoria TonCode foi pensada com intuito de ajudar as pessoas para que possam ingressar na carreira de desenvolvimento, sabendo que hoje em dia a demanda no mercado é extremamente alta e poucas são as pessoas que estão se preparando para esse fluxo tão emergente. Por tanto, com muito carinho e dedicação, nos propusemos a encarar esse desafio, arregaçando as mangas para formar um time de amigos mais que irmãos a se qualificarem a esse mercado futuro.  
+
+_Um bjo a todo e bons estudos_ - Ton Marcondes.
 - - -
 
 # Roadmap
@@ -10,22 +11,35 @@ Se você não souber por onde está caminhando, dificilmente chegará a seu dest
 
 {c:gray} Roadmap, como o nome sugere, é uma espécie de mapa, uma poderosa ferramenta visual e descritiva que apontará como será o produto, projeto ou a formação a cada período de sua evolução. Essa “bússola gerencial” alinhará todos os stakeholders (interessados no projeto) em torno dos mesmos passos sequenciais rumo à construção integral do produto ou conhecimento. Deixará todos os envolvidos cientes do processo de evolução e quais variáveis envolvem esse caminho.{/c}
 
-Mapa
-História
-HTML
-CSS
-Git
-Lógica de programação
-Javascript
-React
+## Mapa  
+![logohtml](img/html.png)![logocss](img/css.png)![logogit](img/git.png)![logoJS](img/javascript.png)![logogithub](img/github.png)![logoreact](img/react.png)![logobootstrap](img/bootstrap.png)![logonode](img/node-js.png)  
+
+História  
+
+HTML  
+
+CSS  
+
+Git  
+
+Lógica de programação  
+
+Javascript  
+
+React  
+
 React Native
 
-Extras
-Bootstrap
-Node Js
-Design Thinking
 
-Participantes do programa
+## Extras  
+
+Bootstrap  
+
+Node Js  
+
+Design Thinking  
+
+## Participantes do programa
 
 | Nome           | e-Mail                            |
 | -------------- | --------------------------------- |
