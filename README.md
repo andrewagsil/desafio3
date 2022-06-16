@@ -46,7 +46,7 @@ Se você não souber por onde está caminhando, dificilmente chegará a seu dest
 
 ## Participantes do programa
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 | Nome           | e-Mail                            |
 | -------------- | --------------------------------- |
@@ -61,4 +61,4 @@ Se você não souber por onde está caminhando, dificilmente chegará a seu dest
 | Ro             | rosangelasarachisilva@gmail.com   |
 | Victor         | desenhagamer5005@gmail.com        |
 
-![Modelo](img/modelo.png)
+
