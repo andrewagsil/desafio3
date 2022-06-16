@@ -20,13 +20,13 @@ Se você não souber por onde está caminhando, dificilmente chegará a seu dest
 
 ![logohtml](img/html.png)![logocss](img/css.png)![logogit](img/git.png)![logoJS](img/javascript.png)![logogithub](img/github.png)![logoreact](img/react.png)![logobootstrap](img/bootstrap.png)![logonode](img/node-js.png)  
 
-- [ ] História  
+- [x] História  
 
-- [ ] HTML  
+- [x] HTML  
 
-- [ ] CSS  
+- [x] CSS  
 
-- [ ] Git  
+- [x] Git  
 
 - [ ] Lógica de programação  
 
