@@ -10,8 +10,6 @@ _Um bjo a todo e bons estudos_ - **Ton Marcondes**.
 
 ## O que é um roadmap?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 Se você não souber por onde está caminhando, dificilmente chegará a seu destino final, concorda? Então, caro aluno, creio que já saiba, ainda que inconscientemente, do que consiste o roadmap, essa técnica largamente utilizada em quase todas as áreas ligadas à criação (do Desenvolvimento de Softwares à Arquitetura).
 
  >Roadmap, como o nome sugere, é uma espécie de mapa, uma poderosa ferramenta visual e descritiva que apontará como será o produto, projeto ou a formação a cada período de sua evolução. Essa “bússola gerencial” alinhará todos os stakeholders (interessados no projeto) em torno dos mesmos passos sequenciais rumo à construção integral do produto ou conhecimento. Deixará todos os envolvidos cientes do processo de evolução e quais variáveis envolvem esse caminho. 
